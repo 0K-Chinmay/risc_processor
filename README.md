@@ -9,20 +9,12 @@ This repository contains the SystemVerilog implementation of an 8-bit Reduced In
 - 8-bit data path
 - Reduced Instruction Set for streamlined operation
 - Modular and scalable architecture
-- Written in industry-standard SystemVerilog
-
-## Directory Structure
-
-- `src/`: Contains the SystemVerilog source code for the processor.
-- `testbench/`: Includes testbenches to verify the functionality of the processor.
-- `sim/`: Output directory for simulation files.
-- `docs/`: Documentation related to the processor's design and usage.
 
 ## Getting Started
 
 ### Prerequisites
 
-- [Simulator](simulator_link): Install a SystemVerilog simulator such as [ModelSim](https://www.mentor.com/products/fv/modelsim/) or [VCS](https://www.synopsys.com/verification/simulation/vcs.html).
+- [Simulator](simulator_link): Install a SystemVerilog simulator such as [Vivado](https://www.xilinx.com/support/download.html) or [VCS](https://www.synopsys.com/verification/simulation/vcs.html).
 
 ### Simulation
 
